@@ -132,7 +132,6 @@
 		this.elt = elt;
 	}
 
-
 	ScriptContext.prototype = {
 
 		getContent: function() {
